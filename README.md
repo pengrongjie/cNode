@@ -18,7 +18,6 @@ $ npm install或 cnpm install
 ``` bash
 $ npm run dev
 ```
-## 截图
 
 ## 目录结构
 
