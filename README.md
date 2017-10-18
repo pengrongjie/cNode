@@ -5,15 +5,6 @@ vue全家桶
 <a href="https://cnodejs.org/api" target="_blank">Cnode社区提供的api</a>
 #### 参考
 <a href="https://github.com/shinygang" target="_blank"> https://github.com/shinygang </a>
-## 感悟
-
-``` bash
-学习前端一年多，也看到Vue火起来，于是自己开始自学；
-刚开始接触，真是觉得使用起来太方便，但还是有很多新的东西不是很了解，于是想这各种办法去学习去练习；
-这个项目花了我一个星期时间，因为白天要上班，只能花晚上时间去做；
-对于这个项目，我觉得挺适合新手vue入门的，包含了（vue-route，vuex，axios，webpack等基本知识），所以我希望新人可以多看看；
-```
-
 
 ## 安装
 
