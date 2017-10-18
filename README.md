@@ -1,7 +1,10 @@
 ## 前言
 
-####该项目是采用<a href="https://cnodejs.org/api" target="_blank">Cnode</a>社区提供的api，基于vue2.0重写，在此特别感谢！！！然后也要感谢<a href="https://github.com/shinygang" target="_blank"> https://github.com/shinygang </a>的vue-cnodejs项目给予我的启发。再一次说声谢谢！
-
+vue全家桶
+#### api
+<a href="https://cnodejs.org/api" target="_blank">Cnode社区提供的api</a>
+#### 参考
+<a href="https://github.com/shinygang" target="_blank"> https://github.com/shinygang </a>
 ## 感悟
 
 ``` bash
@@ -10,13 +13,12 @@
 这个项目花了我一个星期时间，因为白天要上班，只能花晚上时间去做；
 对于这个项目，我觉得挺适合新手vue入门的，包含了（vue-route，vuex，axios，webpack等基本知识），所以我希望新人可以多看看；
 ```
-如果你觉得该项目对你有帮助，请打赏作者一瓶可乐吧。
-![v1](src/assets/pay.jpg) 
+
 
 ## 安装
 
 ``` bash
-$ git clone https://github.com/LeeWgg/CNode.git
+$ git clone https://github.com/pengrongjie/cNode.git
 $ cd CNode
 $ npm install或 cnpm install
 ```
@@ -26,10 +28,7 @@ $ npm install或 cnpm install
 $ npm run dev
 ```
 ## 截图
-![v1](src/assets/v1.PNG)
-![v2](src/assets/v2.PNG)
-![v3](src/assets/v3.PNG)
-![v4](src/assets/v4.PNG)
+
 ## 目录结构
 
 ``` bash
